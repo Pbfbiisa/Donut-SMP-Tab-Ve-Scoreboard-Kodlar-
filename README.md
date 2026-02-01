@@ -37,7 +37,24 @@ donut_tab_top:
   - '&7Have fun &f%player%&7!'
 
 
+
+
+
+
+
+
+
+
+
 şimdi buda config.yml
+
+
+
+
+
+
+
+
 
 header-footer:
   enabled: true
